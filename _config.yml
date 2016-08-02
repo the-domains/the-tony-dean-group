@@ -1,4 +1,3 @@
-layout_spectrum: 0.38346476666629314
 typography_spectrum: 0.86981315840967
 color:
   brandStrength: 0.8160648278426379
@@ -11,5 +10,7 @@ color:
     - '#FFFCE8'
     - '#3E363F'
     - '#DD403A'
+layout_spectrum: 0.38346476666629314
 name: The Erlec Group
 title: Antony Erlec Real Estate
+description: San Francisco Bay Area Real Estate
