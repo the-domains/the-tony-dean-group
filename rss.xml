@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[The Tony Dean Group]]></title>
+        <description><![CDATA[The Tony Dean Group]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Aug 2016 21:36:35 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Wheelhouse, Downtown Los Angeles]]></title>
+            <description><![CDATA[<article><h1>The Wheelhouse, Downtown Los Angeles</h1><p>Tami and Chase Spenst wanted to build a one-stop shop for the everyday bicycle rider. After finding a space in the heart of Los Angeles' creative community, they designed a warm and approachable indoor/outdoor space (with a service center and coffee bar) and filled it with vintage-inspired bicycles and accessories.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d451662de5f889e0d2ea7540f20fda26793ae992.jpg"></article>]]></description>
+            <link>http://www.coolhunting.com/culture/the-wheelhouse-bicycles-coffee-los-angeles</link>
+            <guid isPermaLink="false">013ac68a-1b45-42f5-96c5-1ef437fd32e8</guid>
+            <pubDate>Tue, 02 Aug 2016 21:36:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
